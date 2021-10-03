@@ -17,7 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "@jsprismarine/jsbinaryutils": "^2.1.7",
-    "minecraft-data": "extremeheat/node-minecraft-data#bedrock",
+    "minecraft-data": "^2.94.0",
     "prismarine-block": "extremeheat/prismarine-block#bedrock",
     "prismarine-nbt": "github:extremeheat/prismarine-nbt#builder-fix",
     "vec3": "^0.1.7",
